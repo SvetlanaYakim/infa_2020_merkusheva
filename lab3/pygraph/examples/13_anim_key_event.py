@@ -34,7 +34,7 @@ x = 100; y = 100
 dx = 0;  dy = 0
 penColor("yellow")
 brushColor("yellow")
-#obj = rectangle(x, y, x+20, y+20)
+obj = rectangle(x, y, x+20, y+20)
 obj = circle(x, y, 20)
 
 onKey(keyPressed)

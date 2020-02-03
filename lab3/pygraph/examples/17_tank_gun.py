@@ -68,7 +68,7 @@ bullet = None
 brushColor("#6b8e23")
 rectangle(x0-W/2, y0-H/2, x0+W/2, y0+H/2)
 penSize(5)
-drawGun(angle)
+#drawGun(angle)
 penSize(1)
 brushColor("#556b2f")
 circle(x0, y0, W/2)
